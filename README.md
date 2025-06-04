@@ -5,6 +5,7 @@ Este repositório contém soluções de desafios da plataforma [Beecrowd](https:
 As soluções estão organizadas em subpastas por número de exercício, com nomes descritivos e separadas por linguagem de programação.
 
 🎯 Objetivo do repositório
+
 ✅ Consolidar meu aprendizado com algoritmos e resolução de problemas
 
 ✅ Criar um portfólio prático com soluções reais
